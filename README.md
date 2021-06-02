@@ -1,30 +1,8 @@
-# standby
+# 本项目访问网易云音乐API接口获取数据:http://www.hjmin.com/   
+# 模仿网易云音乐移动端  本项目仅本人学习及提供参考🥰
 
-## Project setup
-```
-npm install
-```
+#克隆到本地
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#npm install 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### 未完成部分
-<!-- 1.歌词部分 -->
-2.专辑列表的简介没有添加点击事件(部分显示/全部显示)
-3.歌手页面(顶部背景图上的部分文字没有添加)(影响力部分，没有找到相关数据)
-4.部分接口用不了   歌手描述  
+#npm run serve
